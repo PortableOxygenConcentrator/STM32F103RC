@@ -2,7 +2,7 @@
   ******************************************************************************
   * @file    AplMain.c
   * @author  Best Team
-  * @version V1.0.0
+  * @version V1.0.1
   * @date    24-June-2021
   * @brief   This file provides all the main functions. 
   ******************************************************************************
@@ -157,7 +157,7 @@ if(Key_GetFlagStatus(KEY4_STATUS)){
 
 //	Mid_LCD_WriteOnePix(120,80,RED);
 
-//Delay_Ms(500);
+//	Delay_Ms(500);
 	
 //		Mid_LCD_ShowNum(170,10,system.grade,2,12);
 		
