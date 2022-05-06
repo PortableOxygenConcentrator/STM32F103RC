@@ -2,7 +2,7 @@
   ******************************************************************************
   * @file    AplMain.c
   * @author  Best Team
-  * @version V1.0.1
+  * @version V1.0.0
   * @date    24-June-2021
   * @brief   This file provides all the main functions. 
   ******************************************************************************

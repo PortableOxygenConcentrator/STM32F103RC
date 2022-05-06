@@ -6,8 +6,17 @@
 *.ko
 *.obj
 *.elf
+*.crf
+*.d
+*.Bak
+*.htm
+*.hex
+*.lnp
+*.sct
 
-# Linker output
+# Listings
+*.map
+*.lst
 *.ilk
 *.map
 *.exp
@@ -50,3 +59,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Log files
+keil-assistant.Log
+
+
