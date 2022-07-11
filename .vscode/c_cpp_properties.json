@@ -3,18 +3,18 @@
         {
             "name": "Portable Oxygenerator",
             "includePath": [
-                "d:\\code\\Github\\STM32F103RC\\User_Files\\Application",
-                "d:\\code\\Github\\STM32F103RC\\User_Files\\Middle",
-                "d:\\code\\Github\\STM32F103RC\\User_Files\\Driver",
-                "d:\\code\\Github\\STM32F103RC\\User_Files\\Common",
-                "d:\\code\\Github\\STM32F103RC\\STM32F10x_FWLib\\inc",
-                "d:\\code\\Github\\STM32F103RC\\CoreSupport",
-                "d:\\code\\Github\\STM32F103RC\\startup",
-                "d:\\code\\Github\\STM32F103RC\\System",
+                "d:\\Local Repository\\STM32F103RC\\User_Files\\Application",
+                "d:\\Local Repository\\STM32F103RC\\User_Files\\Middle",
+                "d:\\Local Repository\\STM32F103RC\\User_Files\\Driver",
+                "d:\\Local Repository\\STM32F103RC\\User_Files\\Common",
+                "d:\\Local Repository\\STM32F103RC\\STM32F10x_FWLib\\inc",
+                "d:\\Local Repository\\STM32F103RC\\CoreSupport",
+                "d:\\Local Repository\\STM32F103RC\\startup",
+                "d:\\Local Repository\\STM32F103RC\\System",
                 "C:\\Keil_v5\\ARM\\ARMCC\\include",
                 "C:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "d:\\code\\Github\\STM32F103RC\\STM32F10x_FWLib\\src",
-                "d:\\code\\Github\\STM32F103RC"
+                "d:\\Local Repository\\STM32F103RC\\STM32F10x_FWLib\\src",
+                "d:\\Local Repository\\STM32F103RC"
             ],
             "defines": [
                 "STM32F10X_HD",

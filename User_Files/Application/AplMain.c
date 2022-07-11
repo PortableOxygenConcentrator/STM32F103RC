@@ -18,7 +18,6 @@
 /* Includes ------------------------------------------------------------------*/
 #include "AplMain.h"
 
-
 /**
   * @brief  		Handling all the initial functions and loop function. 
   *         
@@ -61,14 +60,9 @@ int main(void)
 //	Mid_LCD_Fill(0,120,120,130,RED);
 //	Delay_Ms(500);
 
-
-
 //	LCD_Address_Set(100,100,100,100);
 
-
-
 //	Mid_LCD_SetCursor(120,120);		
-
 
 
 /*

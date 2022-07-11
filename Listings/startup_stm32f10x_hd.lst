@@ -553,11 +553,9 @@ ARM Macro Assembler    Page 9
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
 ork --depend=.\objects\startup_stm32f10x_hd.d -o.\objects\startup_stm32f10x_hd.
-o -I.\RTE\_Portable_Oxygenerator -IC:\Users\Daniel\AppData\Local\Arm\Packs\Keil
-\STM32F1xx_DFP\1.0.5\Device\Include -IC:\Keil_v5\ARM\CMSIS\Include --predefine=
-"__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA 527" --predefine="STM32
-F10X_HD SETA 1" --list=.\listings\startup_stm32f10x_hd.lst startup\startup_stm3
-2f10x_hd.s
+o -IDevice\Include --predefine="__MICROLIB SETA 1" --predefine="__UVISION_VERSI
+ON SETA 536" --list=.\listings\startup_stm32f10x_hd.lst startup\startup_stm32f1
+0x_hd.s
 
 
 
@@ -1429,4 +1427,4 @@ Symbol: __main
       At line 153 in file startup\startup_stm32f10x_hd.s
 Comment: __main used once
 2 symbols
-422 symbols in table
+421 symbols in table
